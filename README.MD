@@ -29,6 +29,6 @@
 1. склонируйте репозиторий
 git clone https://github.com/shamalli/php-auth-system.git
 
-2. создайте базу данных `user_auth`
+2. создайте базу данных `users`
 3. Импортируйте `database.sql` через phpMyAdmin или командную строку
 4. Настройте `src/Config/Config.php`

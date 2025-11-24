@@ -7,9 +7,6 @@ class Config {
     const DB_PASS = 'root';
     const DB_NAME = 'users';
     
-
-    
-
     const CAPTCHA_CLIENT_KEY = '';
     const CAPTCHA_SERVER_KEY = '';
     
